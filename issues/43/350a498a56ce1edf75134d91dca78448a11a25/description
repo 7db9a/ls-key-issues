@@ -1,0 +1,1 @@
+If shell::spawn fails, it doesn't try shell:cmd (e.g. 'vim').
